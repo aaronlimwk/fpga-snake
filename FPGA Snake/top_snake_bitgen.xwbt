@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ise/CS_M152/Voldemort/top_snake.ncd
+OUTFILE=/home/ise/CS_M152/Voldemort/top_snake.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=/home/ise/CS_M152/Voldemort
+LICENSE=ISE
+USER_INFO=8416_11442_1478797146_620
