@@ -1,2 +1,2 @@
 # fpga-snake
-Retro snake game on an FPGA!
+Retro snake game on a Nexys 3 FPGA board!
