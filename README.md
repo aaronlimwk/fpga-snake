@@ -4,6 +4,8 @@ Retro snake game on the Nexys 3 FPGA board! Eat as many :apple:'s you can to win
 
 ## Controls :video_game:
 
+<img src="/snake-controls.png">
+
 ## Gameplay :space_invader:
 
 <img src="/snake-gameplay.gif" width="500" height="500">
