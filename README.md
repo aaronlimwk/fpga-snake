@@ -4,6 +4,6 @@ Retro snake game on the Nexys 3 FPGA board! Eat as many :apple:'s you can to win
 
 ## Gameplay :video_game:
 
-<img src="/snake-gameplay.gif" width="200" height="200">
+<img src="/snake-gameplay.gif" width="500" height="500">
 
 ## Death Animation :skull:
