@@ -2,6 +2,6 @@
 
 Retro snake game on the Nexys 3 FPGA board! Eat as many :apple:'s you can to win the game!
 
-## Snake Gameplay
+## Gameplay :video_game:
 
-## Death Animation
+## Death Animation :skull:
