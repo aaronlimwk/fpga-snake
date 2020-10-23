@@ -12,4 +12,4 @@ Retro snake game on the Nexys 3 FPGA board! Eat as many :apple:'s you can to win
 
 ## Controls :video_game:
 
-<img src="/snake-controls.png" width="500" height="375">
+<img src="/snake-controls.png" width="945" height="500">
